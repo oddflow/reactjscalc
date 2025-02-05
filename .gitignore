@@ -23,3 +23,11 @@ yarn-debug.log*
 yarn-error.log*
 
 notes.txt
+
+#Image
+design.png
+
+#Firebase
+.firebase
+.firebaserc
+firebase.json
